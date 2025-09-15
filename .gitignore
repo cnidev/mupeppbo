@@ -1,0 +1,6 @@
+mupeppbo_project/__pycache__/
+sendingsms/__pycache__/
+env/
+sendingsms/migrations/__pycache__/
+db.sqlite3
+dump.rdb
